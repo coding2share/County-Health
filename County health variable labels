@@ -1,0 +1,30 @@
+VariableName,Label
+FIPS,County FIPS code
+countyState,"County, State"
+state,State FIPS code
+county,County FIPS code
+physUnhlth,Average number of days a county's adult respondents report that their physical health was not good. The measure is age-adjusted to the 2000 US population.
+mentUnhlth,Average number of days a county's adult respondents report that their mental health was not good. The measure is age-adjusted to the 2000 US population.
+fairPoorHlth,"Percentage of adult respondents who rate their health ""fair"" or ""poor"". The measure is age-adjusted to the 2000 US population. Respondents were adults (age 18 and more)."
+lowbwt,"Rate of low-weight births (per 1,000 live births)"
+pcpRate,"The rate of primary care physicians per 100,000 population.�"
+mhpRate,"The rate of mental health professionals per 100,000 population.�"
+dentRate,"The rate of dentists per 100,000 population.�"
+paMedReim,The price-adjusted Medicare reimbursements per enrollee and considered as an important measure of the efficiency of a health care system.
+noIns1864,Percentage of persons 18-64 without health insurance coverage.
+noInsUnd64,Percentage of persons under 64 without health insurance coverage.
+infMort,"The number of deaths among children less than one year of age per 1,000 live births.�"
+childMort,"The number of deaths among children under age 18 per 1,000,000 population.�"
+preAAmort,"The number of deaths among residents under the age of 75 per 100,000 population.�"
+diabAdult,The prevalence of diagnosed diabetes in adults age 18 and over. 
+teenBirRate,"The number of births per 1,000 female population born to woment ages 15-19."
+chlamRate,"The rate of Chlamydia cases per 100,000 population."
+hivPrevRate,"The number of diagnosed cases of HIV in a county per 100,000 population."
+smokAdult,The percentage of the adult population that currently smokes every day or most days and has smoked at least 100 cigarettes in their lifetime.
+drinkAdult,"The percentage of adults that report either binge drinking, defined as consuming more than 4 (women) or 5 (men) alcoholic beverages on a single occasion in the past 30 days, or heavy drinking, defined as drinking more than one (women) or 2 (men) drinks per day on average."
+limHlthFood,The percentage of the population who are low income and do not live close to a grocery store.�
+accExer,The percentage of population with adequate access to locations for physical activity.
+obese20,The percentage of the adult population (age 20 and older) that reports a body mass index (BMI) greater than or equal to 30 kg/m2.
+inactive20,The percentage of adults aged 20 and over reporting no leisure-time physical activity.�
+freeLunch,The percentage of children enrolled in public schools eligible for free lunch.
+fei,The Food Environment Index ranges from 0 (worst) to 10 (best) and equally weights two indicators of the food environment: Limited access to healthy foods and Food insecurity.
